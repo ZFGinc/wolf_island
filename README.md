@@ -1,6 +1,8 @@
 # Wolf Island 
 ### (Van Tassel D. Style, development, efficiency, debugging and testing programs. - M .: Mir, 1981)
 
+*** 
+
 # Formulation of the problem:
 ### A 20 x 20 wolf island is inhabited by wild rabbits, wolves and she-wolves. There are several representatives of each species.
 
@@ -11,5 +13,7 @@
 ### The wolf behaves like a she-wolf until all the rabbits in the neighboring squares disappear; then, if the she-wolf is in one of the eight nearby squares, the wolf chases after her. If a wolf and a she-wolf are in the same square, and there is no rabbit to eat, they produce offspring of a random sex.
 
 ### At the initial moment of time, all wolves and she-wolves have 1 point.
+
+*** 
 
 ## Write a program that implements this ecological model and observe the change in the population over a certain period of time.
